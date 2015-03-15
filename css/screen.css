@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	font: 18px/1.8em sans-serif;
+	color: #202020;
+}
+
+.wrapper {
+	max-width: 960px;
+	margin: 0 auto;
+}
